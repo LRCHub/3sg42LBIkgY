@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛があれば。",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-13T13:37:21.992158Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛があれば。",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_愛があれば。_春猿火.txt"
+    }
+  ]
+}
